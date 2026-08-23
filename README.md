@@ -22,7 +22,8 @@ ESPN's current interfaces do not expose custom-logo controls consistently, but t
 
 | Team ID | Logo | CDN URL |
 | --- | --- | --- |
-| 1 | Arizomsk Meshkotryas | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1615029211/team-1-arizomsk-meshkotryas.jpg` |
+| 1 | Arizomsk Meshkotryas (current) | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1615029211/team-1-arizomsk-meshkotryas-pink.jpg` |
+| 1 | Arizomsk Meshkotryas (previous) | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1615029211/team-1-arizomsk-meshkotryas.jpg` |
 | 2 | Belomorskye Klyuvy | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1615029211/team-2-klyuvy.jpg` |
 | 4 | Pavlovo-Posdskie Ynitazi | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1615029211/team-4-ynitazi.jpg` |
 | 5 | Dimas's Hipsters | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1615029211/team-5-dimas-hipsters.jpg` |
