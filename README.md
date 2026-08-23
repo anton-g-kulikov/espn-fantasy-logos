@@ -13,6 +13,7 @@ ESPN's current interfaces do not expose custom-logo controls consistently, but t
 | Team ID | Logo | CDN URL |
 | --- | --- | --- |
 | 2 | Novocheboksarsk Point Break | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1069086703/team-2-point-break.jpg` |
+| 13 | Neva Buffaloes | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1069086703/team-13-neva-buffaloes.jpg` |
 | 5 | Valencia Colden Nuts (current) | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1069086703/team-5-valencia-colden-nuts.jpg` |
 | 5 | Ice Floyds (previous) | `https://cdn.jsdelivr.net/gh/anton-g-kulikov/espn-fantasy-logos@main/logos/1069086703/team-5-ice-floyds.jpg` |
 
